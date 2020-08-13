@@ -1,2 +1,5 @@
 rootProject.name = 'design_patterns'
+include '工厂方法模式-00-模拟场景'
+include '工厂方法模式-01-不用模式实现'
+include '工厂方法模式-02-模式实现'
 
